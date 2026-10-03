@@ -29,8 +29,12 @@ Preview locally: `cd site && python -m http.server 8790`, then open `http://loca
 | `delete_url` | account-deletion page (currently PRESTIGE's own Edge page; move it to your domain when you can) |
 | `play_url` | public Google Play listing; keep blank until it answers successfully |
 
-When `play_url` is blank, the site shows “Coming soon” and never links to the
-currently unavailable Store listing.
+When `play_url` is blank, the site shows a neutral availability status instead
+of a disabled download control and never links to the unavailable Store listing.
+
+The layout is reviewed from a 360 px viewport first. Mobile navigation keeps
+44 px targets and keyboard focus inside the open menu; legal-page contents are
+collapsed on small screens and remain fully available without JavaScript.
 
 ## Google Play Console — where each URL goes
 
