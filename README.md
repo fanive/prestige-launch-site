@@ -26,7 +26,6 @@ Preview locally: `cd site && python -m http.server 8790`, then open `http://loca
 | `company` | developer/app identity shown on Google Play and in the policy |
 | `support_email` | confirmed mailbox for product support |
 | `privacy_email` | confirmed mailbox for privacy requests; it may be the same address |
-| `delete_url` | account-deletion page (currently PRESTIGE's own Edge page; move it to your domain when you can) |
 | `play_url` | public Google Play listing; keep blank until it answers successfully |
 
 When `play_url` is blank, the site shows a neutral availability status instead
