@@ -35,6 +35,8 @@ of a disabled download control and never links to the unavailable Store listing.
 The layout is reviewed from a 360 px viewport first. Mobile navigation keeps
 44 px targets and keyboard focus inside the open menu; legal-page contents are
 collapsed on small screens and remain fully available without JavaScript.
+Generated pages fingerprint the CSS and JavaScript URLs so a new GitHub Pages
+deployment cannot leave returning visitors on an older interface.
 
 ## Google Play Console — where each URL goes
 
