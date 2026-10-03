@@ -1,0 +1,92 @@
+{
+ "01_today": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#FFFCF7",
+  "bottom": "#F7F4EF"
+ },
+ "02_markets": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#FFFCF7",
+  "bottom": "#F7F4EF"
+ },
+ "03_watchlist": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#FFFCF7",
+  "bottom": "#F7F4EF"
+ },
+ "04_portfolio": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#FFFCF7",
+  "bottom": "#F7F4EF"
+ },
+ "05_stock": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#F7F4EF",
+  "bottom": "#FEFBF6"
+ },
+ "06_prestige_footprint": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#F7F4EF",
+  "bottom": "#FEFBF6"
+ },
+ "07_guided_analysis": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#71706E",
+  "bottom": "#F7F4EF"
+ },
+ "08_sector_sheet": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#757471",
+  "bottom": "#FEFBF6"
+ },
+ "09_industry_holdings": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#757471",
+  "bottom": "#F7F4EF"
+ },
+ "10_strengths": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#F7F4EF",
+  "bottom": "#F0EDE8"
+ },
+ "11_plan_editor": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#71706E",
+  "bottom": "#FFFCF7"
+ },
+ "12_plan_price": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#71706E",
+  "bottom": "#FFFCF7"
+ },
+ "13_compare_picker": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#757471",
+  "bottom": "#F7F4EF"
+ },
+ "14_compare_top": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#F7F4EF",
+  "bottom": "#F6F3EE"
+ },
+ "16_compare_valuation": {
+  "w": 1220,
+  "h": 2520,
+  "top": "#F7F4EF",
+  "bottom": "#F6E3D9"
+ }
+}
