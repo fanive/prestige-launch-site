@@ -29,7 +29,9 @@ Preview locally: `cd site && python -m http.server 8790`, then open `http://loca
 | `play_url` | public Google Play listing; keep blank until it answers successfully |
 
 When `play_url` is blank, the site shows a neutral availability status instead
-of a disabled download control and never links to the unavailable Store listing.
+of a disabled download control and never links to an unavailable Store listing.
+The current public listing was verified on 8 October 2026 and the generated
+site links to it from every Google Play call to action.
 
 The layout is reviewed from a 360 px viewport first. Mobile navigation keeps
 44 px targets and keyboard focus inside the open menu; legal-page contents are
