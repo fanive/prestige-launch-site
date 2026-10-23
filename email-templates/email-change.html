@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ if eq .Data.locale "en" }}Confirm your new email address{{ else }}Confirmez votre nouvelle adresse{{ end }}</title>
+</head>
+<body style="margin:0;background:#f0ece6;color:#2d2926;font-family:Arial,Helvetica,sans-serif;">
+  <div style="display:none;max-height:0;overflow:hidden;opacity:0;color:transparent;">{{ if eq .Data.locale "en" }}Confirm your new email address{{ else }}Confirmez votre nouvelle adresse{{ end }}</div>
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="width:100%;background:#f0ece6;">
+    <tr><td align="center" style="padding:28px 12px;">
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="width:100%;max-width:600px;background:#fffdf9;border:1px solid #e2dad0;border-radius:20px;overflow:hidden;">
+        <tr><td style="padding:26px 30px;background:#201e1d;color:#ffffff;">
+          <table role="presentation" width="100%" cellspacing="0" cellpadding="0"><tr>
+            <td style="font-size:24px;line-height:1;font-weight:700;letter-spacing:-0.8px;">PREST<span style="color:#62c5ee;">I</span>GE</td>
+            <td align="right"><span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#d6006c;"></span>&nbsp;<span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#62c5ee;"></span></td>
+          </tr></table>
+        </td></tr>
+        <tr><td style="height:6px;background:#007693;font-size:0;line-height:0;">&nbsp;</td></tr>
+        <tr><td style="padding:38px 36px 18px;">
+          <p style="margin:0 0 10px;color:#007693;font-size:13px;line-height:1.4;font-weight:700;letter-spacing:.7px;text-transform:uppercase;">{{ if eq .Data.locale "en" }}Account security{{ else }}Sécurité du compte{{ end }}</p>
+          <h1 style="margin:0 0 18px;color:#2d2926;font-size:28px;line-height:1.2;letter-spacing:-.5px;">{{ if eq .Data.locale "en" }}Confirm your new email address{{ else }}Confirmez votre nouvelle adresse{{ end }}</h1>
+          <p style="margin:0 0 24px;color:#4f4a46;font-size:16px;line-height:1.65;">{{ if eq .Data.locale "en" }}You asked to replace the email address on your PRESTIGE account. Confirm the change to complete it.{{ else }}Vous avez demandé à remplacer l’adresse courriel de votre compte PRESTIGE. Confirmez ce changement pour le terminer.{{ end }}</p>
+          <table role="presentation" cellspacing="0" cellpadding="0" style="margin:0 0 24px;"><tr><td style="border-radius:12px;background:#007693;">
+            <a href="{{ .ConfirmationURL }}" style="display:inline-block;padding:14px 22px;color:#ffffff;text-decoration:none;font-size:16px;line-height:1.25;font-weight:700;">{{ if eq .Data.locale "en" }}Confirm change{{ else }}Confirmer le changement{{ end }}</a>
+          </td></tr></table>
+          <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="width:100%;background:#f7f4ef;border-radius:12px;"><tr><td style="padding:16px 18px;color:#6d6762;font-size:13px;line-height:1.55;">
+            <strong style="color:#2d2926;">{{ if eq .Data.locale "en" }}Good to know{{ else }}À savoir{{ end }}</strong><br>{{ if eq .Data.locale "en" }}If you did not request this, you can safely ignore this email.{{ else }}Si vous n’êtes pas à l’origine de cette demande, vous pouvez ignorer ce message.{{ end }}
+          </td></tr></table>
+        </td></tr>
+        <tr><td style="padding:18px 36px 34px;">
+          <p style="margin:0;color:#6d6762;font-size:13px;line-height:1.6;">{{ if eq .Data.locale "en" }}PRESTIGE helps you understand before you act.{{ else }}PRESTIGE vous aide à comprendre avant d’agir.{{ end }}</p>
+        </td></tr>
+        <tr><td style="padding:20px 36px;background:#f7f4ef;border-top:1px solid #e2dad0;color:#79716a;font-size:12px;line-height:1.6;">
+          <a href="https://prestige.wouanda.com/support.html" style="color:#006b87;text-decoration:underline;">{{ if eq .Data.locale "en" }}Support{{ else }}Assistance{{ end }}</a> · Wouanda Inc.<br>
+          {{ if eq .Data.locale "en" }}Automated security email related to your PRESTIGE account.{{ else }}Message de sécurité automatique lié à votre compte PRESTIGE.{{ end }}
+        </td></tr>
+      </table>
+    </td></tr>
+  </table>
+</body>
+</html>
