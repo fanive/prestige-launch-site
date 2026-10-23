@@ -1,3 +1,13 @@
+# PRESTIGE — prestige.wouanda.com
+
+Since 23 October 2026 this repository publishes the PRESTIGE web version
+(markets, security analysis, account) built from the `prestige-web` project
+(Next.js static export: `npm run build`, then the contents of `out/` at the
+repository root). The legal pages keep their addresses; the former launch page
+is `presentation.html` (`en/presentation.html`).
+
+The notes below describe the former launch page build in `marketing/`.
+
 # PRESTIGE — launch site
 
 Static site in French and English, with no framework, tracker, cookie or remote
