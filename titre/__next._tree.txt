@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/38hz39cink0zp.css","style"]
+:HL["/_next/static/chunks/36aw69-m1_pz9.css","style"]
 :HL["/_next/static/media/Poppins_Bold-s.p.2t4n93i004s1b.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/_next/static/media/Poppins_Medium-s.p.1f-m2a3sompff.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/_next/static/media/Poppins_Regular-s.p.0iwh8bbel1vnt.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":"titre","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"(app)","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(fr)","h":112,"c":"$Q2"}]]
-0:{"b":"Wmw5RhcMThYHbeIBzjPq6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Xdv6Cp8J0cSeBIJ3RwkwL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
