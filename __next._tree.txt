@@ -6,4 +6,4 @@
 :HL["/assets/screens/05_stock@1x.webp","image",{"imageSrcSet":"/assets/screens/05_stock@1x.webp 610w, /assets/screens/05_stock.webp 1220w","imageSizes":"(min-width: 1024px) 320px, 70vw"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"(fr)","h":112,"c":"$Q2"}]]
-0:{"b":"WTm6dZfX0HxroK8Q-tatq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"y4_VdDnwUidGEuYXMbW1q","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
