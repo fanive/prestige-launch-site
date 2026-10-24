@@ -1,8 +1,8 @@
 // PRESTIGE service worker: keeps the application shell usable offline.
 // Market data (PrestigeAPI, Supabase) is never cached here: offline, a
 // figure shows as unavailable instead of an old value presented as current.
-const VERSION = "prestige-shell-v1";
-const SHELL = ["/", "/en/", "/titre/", "/en/security/", "/compte/", "/en/account/", "/manifest.webmanifest", "/assets/brand/icon-192.png"];
+const VERSION = "prestige-shell-v2";
+const SHELL = ["/", "/en/", "/marches/", "/en/markets/", "/titre/", "/en/security/", "/compte/", "/en/account/", "/manifest.webmanifest", "/assets/brand/icon-192.png"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(VERSION).then((cache) => cache.addAll(SHELL)).then(() => self.skipWaiting()));

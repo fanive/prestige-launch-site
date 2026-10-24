@@ -4,7 +4,7 @@
   "description": "Les marchés expliqués en mots simples : cours datés, secteurs, titres dont on parle, votre watchlist et vos plans.",
   "lang": "fr",
   "dir": "ltr",
-  "start_url": "/",
+  "start_url": "/marches/",
   "scope": "/",
   "id": "/",
   "display": "standalone",
@@ -17,7 +17,7 @@
     { "src": "/assets/brand/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
   ],
   "shortcuts": [
-    { "name": "Marchés", "url": "/", "icons": [{ "src": "/assets/brand/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Marchés", "url": "/marches/", "icons": [{ "src": "/assets/brand/icon-192.png", "sizes": "192x192" }] },
     { "name": "Mon compte", "url": "/compte/", "icons": [{ "src": "/assets/brand/icon-192.png", "sizes": "192x192" }] }
   ]
 }
