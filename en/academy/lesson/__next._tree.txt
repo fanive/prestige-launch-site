@@ -1,0 +1,11 @@
+:HL["/_next/static/chunks/24oy0ndaf4fa5.css","style"]
+:HL["/_next/static/media/Poppins_Bold-s.p.2t4n93i004s1b.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/Poppins_Medium-s.p.1f-m2a3sompff.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/Poppins_Regular-s.p.0iwh8bbel1vnt.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/Poppins_SemiBold-s.p.2y-6e_gndutbv.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":"lesson","h":96,"c":"$Q5"}]]
+3:[["children",{"s":"academy","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"en","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(en)","h":48,"c":"$Q2"}]]
+0:{"b":"N3YBUxELLV1M3ZdS2HbQk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
