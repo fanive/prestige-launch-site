@@ -5,9 +5,9 @@
 d:"/_next/static/chunks/1t5iku8sihjww.js"
 e:"/_next/static/chunks/1b2hlebuw6q47.js"
 f:"/_next/static/chunks/0ccnxm4j9ovkb.js"
-10:"/_next/static/chunks/2qc99ph017rh-.js"
-11:"/_next/static/chunks/3s16u67n7y105.js"
-12:"/_next/static/chunks/4243k_1iemiq7.js"
+10:"/_next/static/chunks/097po-giiiyyo.js"
+11:"/_next/static/chunks/2onqm-azy99cp.js"
+12:"/_next/static/chunks/3s16u67n7y105.js"
 13:"/_next/static/chunks/25s887vjgs2pj.js"
 14:"/_next/static/chunks/2j9kvdj7y3k3z.js"
 15:"/_next/static/chunks/0dbea_zxmugu_.js"
@@ -28,7 +28,7 @@ c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$5","c",{"children":[["$",
 3:[["children",{"s":"(app)","h":32,"c":"$Q4"}]]
 2:[["children",{"s":"en","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(en)","h":112,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$5","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F4EF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#201E1D","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"My account · PRESTIGE"}],["$","meta","1",{"name":"description","content":"Markets explained in plain words: dated prices, sectors, securities people talk about, stock and ETF pages."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","link","4",{"rel":"alternate","hrefLang":"fr","href":"https://prestige.wouanda.com/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://prestige.wouanda.com/en/"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"PRESTIGE"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","9",{"rel":"icon","href":"/favicon.ico"}],["$","link","10",{"rel":"apple-touch-icon","href":"/assets/brand/icon-180.png"}],["$","$L20","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@21","v":null,"s":"$b"}},"a":"$@22","u":"$@23","b":"RfN5ZVwt2_dYQYp9etuSY"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$5","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F4EF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#201E1D","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"My account · PRESTIGE"}],["$","meta","1",{"name":"description","content":"Markets explained in plain words: dated prices, sectors, securities people talk about, stock and ETF pages."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","link","4",{"rel":"alternate","hrefLang":"fr","href":"https://prestige.wouanda.com/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://prestige.wouanda.com/en/"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"PRESTIGE"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","9",{"rel":"icon","href":"/favicon.ico"}],["$","link","10",{"rel":"apple-touch-icon","href":"/assets/brand/icon-180.png"}],["$","$L20","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@21","v":null,"s":"$b"}},"a":"$@22","u":"$@23","b":"fK-sl1BcbLYP5QVqeB3Q0"}
 1a:null
 23:true
 b:300
