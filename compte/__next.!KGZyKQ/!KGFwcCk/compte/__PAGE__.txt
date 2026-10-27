@@ -6,12 +6,12 @@ c:"/_next/static/chunks/1t5iku8sihjww.js"
 d:"/_next/static/chunks/2qg5_39_st92-.js"
 e:"/_next/static/chunks/0ccnxm4j9ovkb.js"
 f:"/_next/static/chunks/2omt40zoo4xeu.js"
-10:"/_next/static/chunks/3q8j0u0oj6qp3.js"
-11:"/_next/static/chunks/3s16u67n7y105.js"
+10:"/_next/static/chunks/0gu3h-xg4d590.js"
+11:"/_next/static/chunks/2t596guai69bz.js"
 12:"/_next/static/chunks/0jd8lbcbuh-n0.js"
 13:"/_next/static/chunks/2j9kvdj7y3k3z.js"
 14:"/_next/static/chunks/32fxwr35k66rn.js"
-15:"/_next/static/chunks/2hcuojfxm5v0j.js"
+15:"/_next/static/chunks/0rybe8djsyu2_.js"
 16:I[63807,["$c","$d","$e","$f","$10","$11","$12","$13","$14","$15"],"AccountView"]
 17:I[97367,["$5"],"OutletBoundary"]
 18:"$Sreact.suspense"
@@ -23,11 +23,11 @@ f:"/_next/static/chunks/2omt40zoo4xeu.js"
 9:X
 9:C
 a:X
-b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","$L16",null,{"lang":"fr"}],[["$","script","script-0",{"src":"/_next/static/chunks/2j9kvdj7y3k3z.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/32fxwr35k66rn.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2hcuojfxm5v0j.js","async":true}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":"$@1a","v":null,"s":"$a"}}]]
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","$L16",null,{"lang":"fr"}],[["$","script","script-0",{"src":"/_next/static/chunks/2j9kvdj7y3k3z.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/32fxwr35k66rn.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0rybe8djsyu2_.js","async":true}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":"$@1a","v":null,"s":"$a"}}]]
 3:[["children",{"s":"compte","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
 2:[["children",{"s":"(app)","h":32,"c":"$Q3"}]]
 1:[["children",{"s":"(fr)","h":112,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F4EF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#201E1D","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mon compte · PRESTIGE"}],["$","meta","1",{"name":"description","content":"Les marchés expliqués en mots simples : cours datés, secteurs, titres dont on parle, fiches d’actions et d’ETF."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","link","4",{"rel":"alternate","hrefLang":"fr","href":"https://prestige.wouanda.com/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://prestige.wouanda.com/en/"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"PRESTIGE"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","9",{"rel":"icon","href":"/favicon.ico"}],["$","link","10",{"rel":"apple-touch-icon","href":"/assets/brand/icon-180.png"}],["$","$L1f","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$a"}},"a":"$@21","u":"$@22","b":"6GIzLCc7bI8hQd-3MQwY2"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F4EF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#201E1D","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mon compte · PRESTIGE"}],["$","meta","1",{"name":"description","content":"Les marchés expliqués en mots simples : cours datés, secteurs, titres dont on parle, fiches d’actions et d’ETF."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","link","4",{"rel":"alternate","hrefLang":"fr","href":"https://prestige.wouanda.com/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://prestige.wouanda.com/en/"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"PRESTIGE"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","9",{"rel":"icon","href":"/favicon.ico"}],["$","link","10",{"rel":"apple-touch-icon","href":"/assets/brand/icon-180.png"}],["$","$L1f","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$a"}},"a":"$@21","u":"$@22","b":"Qgw5L75OUNesRsnvjQb0C"}
 19:null
 22:true
 a:300

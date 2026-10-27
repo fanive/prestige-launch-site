@@ -1,7 +1,13 @@
 {
-  "sourceCommit": "76bcbc14a24f30232dff58f7d1d422113207420a",
-  "tests": 225,
   "responsivePages": 52,
+  "liveDataChecks": [
+    "AAPL-fr",
+    "M-fr",
+    "AAPL-en",
+    "SPY-fr"
+  ],
+  "generatedAt": "2026-10-27T15:30:33.6222861Z",
   "responsiveWidths": 5,
-  "generatedAt": "2026-10-27T13:33:33.2003871Z"
+  "sourceCommit": "e827205383d7a5702f8e16ee805165b327325786",
+  "tests": 256
 }
