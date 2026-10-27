@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "6dbc5c2e1c9f97a8021c1c7a20badc4f5d62404d",
+  "sourceCommit": "d662ec26a04bef55b06d1c41733158ff0472ae1f",
   "apiCommit": "35fc2c001869f9be198d1c6b475c0fe272e0b071",
   "tests": 275,
   "responsivePages": 52,
@@ -8,5 +8,5 @@
     "sector-slope-fr",
     "sector-slope-en"
   ],
-  "generatedAt": "2026-10-27T18:48:06.296955+00:00"
+  "generatedAt": "2026-10-27T19:14:43.669504+00:00"
 }
