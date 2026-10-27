@@ -1,17 +1,15 @@
 {
-  "sourceCommit": "5b36b6b9bf6fc36df2be7021bbb7abd1191b8411",
+  "sourceCommit": "a54fa3ea5f6eb763789f3eb754c8324f4319e1f1",
   "apiCommit": "35fc2c001869f9be198d1c6b475c0fe272e0b071",
   "watchlistMigrationCommit": "fcfdffbfae1f90b37b6da1744a38c378ef50007e",
   "tests": 299,
-  "responsivePages": 11,
+  "responsivePages": 9,
   "responsiveWidths": 5,
   "liveDataChecks": [
-    "local-M-mobile-floating-action",
-    "local-scroll-fade-and-return",
-    "local-add-dialog-open-after-scroll"
+    "local-M-mobile-watchlist-star"
   ],
   "connectedBrowserSaveVerified": false,
-  "connectedBrowserSaveEnvironment": "Save path unchanged; this release changes floating action presentation only",
-  "finalResponsiveRecheckPages": 11,
-  "generatedAt": "2026-10-27T20:13:13.176180+00:00"
+  "connectedBrowserSaveEnvironment": "Icon-only change; save path unchanged",
+  "finalResponsiveRecheckPages": 9,
+  "generatedAt": "2026-10-27T20:17:49.929552+00:00"
 }

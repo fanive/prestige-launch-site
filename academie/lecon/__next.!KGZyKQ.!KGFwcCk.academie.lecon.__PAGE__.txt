@@ -6,9 +6,9 @@ e:"$Sreact.suspense"
 f:"/_next/static/chunks/1t5iku8sihjww.js"
 10:"/_next/static/chunks/2qg5_39_st92-.js"
 11:"/_next/static/chunks/0ccnxm4j9ovkb.js"
-12:"/_next/static/chunks/1y37pfyirplbh.js"
-13:"/_next/static/chunks/34rosy8ougx5y.js"
-14:"/_next/static/chunks/15o-7xd2zn-p2.js"
+12:"/_next/static/chunks/1fnao6aa_5l16.js"
+13:"/_next/static/chunks/15o-7xd2zn-p2.js"
+14:"/_next/static/chunks/230xhrxnnnse4.js"
 15:"/_next/static/chunks/3t9p_ug7djn0u.js"
 16:"/_next/static/chunks/1yz3fsojh79cx.js"
 17:"/_next/static/chunks/09rv5y9xz1b7i.js"
@@ -27,7 +27,7 @@ b:[["children",{"s":"lecon","h":96,"d":{"r":["$","$4","c",{"children":[null,["$"
 3:[["children",{"s":"academie","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
 2:[["children",{"s":"(app)","h":32,"c":"$Q3"}]]
 1:[["children",{"s":"(fr)","h":112,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F4EF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#201E1D","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Leçon · Académie · PRESTIGE"}],["$","meta","1",{"name":"description","content":"Une leçon de l’Académie PRESTIGE."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","link","3",{"rel":"alternate","hrefLang":"fr","href":"https://prestige.wouanda.com/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://prestige.wouanda.com/en/"}],["$","meta","5",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"apple-mobile-web-app-title","content":"PRESTIGE"}],["$","meta","7",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","8",{"rel":"icon","href":"/favicon.ico"}],["$","link","9",{"rel":"apple-touch-icon","href":"/assets/brand/icon-180.png"}],["$","$L20","10",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@21","v":null,"s":"$a"}},"a":"$@22","u":"$@23","b":"W3HBCKxZGzWnmxZYO1AmG"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F4EF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#201E1D","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Leçon · Académie · PRESTIGE"}],["$","meta","1",{"name":"description","content":"Une leçon de l’Académie PRESTIGE."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","link","3",{"rel":"alternate","hrefLang":"fr","href":"https://prestige.wouanda.com/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://prestige.wouanda.com/en/"}],["$","meta","5",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"apple-mobile-web-app-title","content":"PRESTIGE"}],["$","meta","7",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","8",{"rel":"icon","href":"/favicon.ico"}],["$","link","9",{"rel":"apple-touch-icon","href":"/assets/brand/icon-180.png"}],["$","$L20","10",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@21","v":null,"s":"$a"}},"a":"$@22","u":"$@23","b":"eYtXHwIZ3YRTxzE2zBEhw"}
 1a:null
 23:true
 a:300
