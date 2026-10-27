@@ -1,16 +1,16 @@
 {
-  "sourceCommit": "229c7ad46e445b682d559c795b295ea53d27f73c",
+  "sourceCommit": "c517f10306645a55345a60f0c7ce736b0fc6d6c7",
   "apiCommit": "35fc2c001869f9be198d1c6b475c0fe272e0b071",
   "watchlistMigrationCommit": "fcfdffbfae1f90b37b6da1744a38c378ef50007e",
-  "tests": 289,
-  "responsivePages": 52,
+  "tests": 293,
+  "responsivePages": 11,
   "responsiveWidths": 5,
   "liveDataChecks": [
-    "watchlist-sql-rollback-isolation",
-    "watchlist-anonymous-rpc-denied"
+    "mobile-action-end-of-page",
+    "mobile-action-dialog-scroll-position"
   ],
-  "connectedBrowserSaveVerified": true,
-  "connectedBrowserSaveEnvironment": "local web against production account service",
-  "finalResponsiveRecheckPages": 6,
-  "generatedAt": "2026-10-27T19:40:29.415215+00:00"
+  "connectedBrowserSaveVerified": false,
+  "connectedBrowserSaveEnvironment": "Save path unchanged; verified in previous release 229c7ad",
+  "finalResponsiveRecheckPages": 11,
+  "generatedAt": "2026-10-27T15:50:32.143878-04:00"
 }
