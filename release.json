@@ -1,16 +1,12 @@
 {
-  "sourceCommit": "70c49557da4751d3bd818d06cc14edace2b023e3",
+  "sourceCommit": "ca665104624511d577c3d14aa51b30bb6fc2c2ca",
   "apiCommit": "35fc2c001869f9be198d1c6b475c0fe272e0b071",
   "tests": 274,
   "responsivePages": 52,
   "responsiveWidths": 5,
   "liveDataChecks": [
-    "sectors-fr",
-    "sectors-en",
-    "radar-fr",
-    "radar-en",
-    "compare-six-stocks-fr",
-    "compare-five-funds-en"
+    "sector-slope-fr",
+    "sector-slope-en"
   ],
-  "generatedAt": "2026-10-27T17:05:20.9135611Z"
+  "generatedAt": "2026-10-27T17:47:35.4149737Z"
 }
