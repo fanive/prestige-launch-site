@@ -1,20 +1,17 @@
 {
-  "sourceCommit": "4815f2a55627a447a01fb3a64461c151e815159b",
+  "sourceCommit": "5b36b6b9bf6fc36df2be7021bbb7abd1191b8411",
   "apiCommit": "35fc2c001869f9be198d1c6b475c0fe272e0b071",
   "watchlistMigrationCommit": "fcfdffbfae1f90b37b6da1744a38c378ef50007e",
-  "tests": 296,
-  "responsivePages": 52,
+  "tests": 299,
+  "responsivePages": 11,
   "responsiveWidths": 5,
-  "liveDataChecks": [],
+  "liveDataChecks": [
+    "local-M-mobile-floating-action",
+    "local-scroll-fade-and-return",
+    "local-add-dialog-open-after-scroll"
+  ],
   "connectedBrowserSaveVerified": false,
-  "connectedBrowserSaveEnvironment": "Save contract unchanged; this release verifies tabs and prefilled security with an isolated local UI fixture",
-  "finalResponsiveRecheckPages": 2,
-  "generatedAt": "2026-10-27T20:04:57.308920+00:00",
-  "uiChecks": [
-    "320px-fr-tabs-prefilled-M",
-    "360px-en-tabs-prefilled-M",
-    "keyboard-tab-change",
-    "per-category-duplicate-state",
-    "320px-dark"
-  ]
+  "connectedBrowserSaveEnvironment": "Save path unchanged; this release changes floating action presentation only",
+  "finalResponsiveRecheckPages": 11,
+  "generatedAt": "2026-10-27T20:13:13.176180+00:00"
 }
