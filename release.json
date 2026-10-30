@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T18:06:19.0432424Z",
+  "generatedAt": "2026-10-30T18:44:42.3729079Z",
+  "mobileLayoutWidths": 2,
   "mobileLayoutPages": 9,
-  "feature": "compact-latest-session-quote",
-  "sourceCommit": "ad1e6822b1e4f2c45f40073a1bc5ef60c7149f27",
-  "mobileLayoutWidths": 5,
+  "sourceCommit": "6f924f4972496d29ce71e31deab46fde398694cd",
+  "feature": "chart-periods-below-curve",
   "tests": 316
 }
