@@ -1,17 +1,8 @@
 {
-  "sourceCommit": "059ed426a84dee4dbcb83b0b3fb1ce544d936cbd",
-  "apiCommit": "35fc2c001869f9be198d1c6b475c0fe272e0b071",
-  "watchlistMigrationCommit": "6841b7fb8d3b3e134a274341873e2395454c7517",
-  "tests": 303,
-  "responsivePages": 11,
-  "responsiveWidths": 5,
-  "liveDataChecks": [
-    "watchlist-remove-sql-rollback-isolation",
-    "watchlist-remove-anonymous-rpc-denied",
-    "local-M-connected-add-remove-preserves-other-list"
-  ],
-  "connectedBrowserSaveVerified": true,
-  "connectedBrowserSaveEnvironment": "local web against production account service",
-  "finalResponsiveRecheckPages": 11,
-  "generatedAt": "2026-10-27T22:15:09.982972+00:00"
+  "feature": "extended-session-quotes",
+  "sourceCommit": "b47f4d5b9ca5350fa069c48c7e31f12e45cc712b",
+  "generatedAt": "2026-10-30T17:32:39.1017004Z",
+  "tests": 311,
+  "mobileLayoutPages": 9,
+  "mobileLayoutWidths": 5
 }
