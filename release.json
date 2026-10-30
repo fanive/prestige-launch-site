@@ -1,9 +1,8 @@
 {
-  "mobileLayoutWidths": 5,
+  "generatedAt": "2026-10-30T18:06:19.0432424Z",
   "mobileLayoutPages": 9,
-  "generatedAt": "2026-10-30T17:49:46.0244809Z",
-  "feature": "extended-session-quotes",
-  "sourceCommit": "58dfdba2211f2b521ef1b365d43d8b50f5fe1cec",
-  "connectedProof": "SOFI provider observation matches both API routes, public web FR/EN and Android device",
-  "tests": 312
+  "feature": "compact-latest-session-quote",
+  "sourceCommit": "ad1e6822b1e4f2c45f40073a1bc5ef60c7149f27",
+  "mobileLayoutWidths": 5,
+  "tests": 316
 }
