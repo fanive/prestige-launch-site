@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T14:44:38Z",
-  "sourceCommit": "991e02b497ad9089425bb0f997497d383b3fdabe",
-  "feature": "one-step-shared-prestige-report",
-  "tests": 13
+  "generatedAt": "2026-11-01T17:38:31Z",
+  "sourceCommit": "5b7238d8d89570628fbd1ceb5c675ff5ae3d3002",
+  "feature": "stock-etf-report-visual-structure",
+  "tests": 25
 }
