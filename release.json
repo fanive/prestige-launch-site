@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T19:21:11Z",
-  "sourceCommit": "c7f32a200b771886b86e96888f965333788ffdac",
-  "feature": "etf-report-decision-synthesis",
-  "tests": 18
+  "generatedAt": "2026-11-01T22:31:25Z",
+  "sourceCommit": "f1f4ecd223a4d6931834694c53160044891e3f5a",
+  "feature": "report-decision-overview",
+  "tests": 40
 }
