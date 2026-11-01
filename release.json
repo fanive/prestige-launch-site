@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T22:31:25Z",
-  "sourceCommit": "f1f4ecd223a4d6931834694c53160044891e3f5a",
-  "feature": "report-decision-overview",
+  "generatedAt": "2026-11-01T23:28:52Z",
+  "sourceCommit": "4a294aa95bfc297866a9d636f619fe9b2f71e122",
+  "feature": "report-single-evidence-chart",
   "tests": 40
 }
