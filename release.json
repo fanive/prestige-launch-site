@@ -1,8 +1,6 @@
 {
-  "generatedAt": "2026-11-01T03:57:38Z",
-  "mobileLayoutWidths": 4,
-  "mobileLayoutPages": 1,
-  "sourceCommit": "0609e12af35c724a4c8850eb94f57fadb62da63b",
-  "feature": "evidence-led-prestige-report",
-  "tests": 16
+  "generatedAt": "2026-11-01T14:44:38Z",
+  "sourceCommit": "991e02b497ad9089425bb0f997497d383b3fdabe",
+  "feature": "one-step-shared-prestige-report",
+  "tests": 13
 }
