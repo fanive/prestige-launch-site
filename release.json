@@ -1,6 +1,6 @@
 {
-  "feature": "shared-report-editorial-context",
-  "sourceCommit": "9b7afe933b6187e87973bff17c1232aeed3de8fb",
-  "generatedAt": "2026-11-05T12:38:06.5271770Z",
-  "tests": 23
+  "feature": "prestige-report-overview",
+  "sourceCommit": "294dbe12e01fd0b22d7afad4ae45323959abf412",
+  "generatedAt": "2026-11-05T13:09:54.0729550Z",
+  "tests": 25
 }
