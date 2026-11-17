@@ -1,0 +1,37 @@
+5:"$Sreact.fragment"
+6:"/_next/static/chunks/3qfy96eoyh-ek.js"
+7:I[39756,["$6"],"default"]
+8:I[37457,["$6"],"default"]
+d:"$Sreact.suspense"
+e:"/_next/static/chunks/05_3nq2g-5edl.js"
+f:"/_next/static/chunks/3m241co8c_5zw.js"
+10:"/_next/static/chunks/1iu9vxrj3nxf3.js"
+11:"/_next/static/chunks/12-_w8xtcxka-.js"
+12:"/_next/static/chunks/0i6cb4r_332k0.js"
+13:"/_next/static/chunks/0w45eaeacsdft.js"
+14:"/_next/static/chunks/3voq6yboolhuz.js"
+15:"/_next/static/chunks/3cl7l-_4-x8ob.js"
+16:I[15793,["$e","$f","$10","$11","$12","$13","$14","$15"],"PublicationView"]
+17:I[97367,["$6"],"OutletBoundary"]
+1a:"ViewportBoundary"
+1b:I[97367,["$6"],"$1a"]
+1c:"MetadataBoundary"
+1d:I[97367,["$6"],"$1c"]
+1e:I[27201,["$6"],"IconMark"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$5","c",{"children":[["$","$d",null,{"fallback":["$","p",null,{"role":"status","children":"Loading post…"}],"children":["$","$L16",null,{"lang":"en"}]}],[["$","script","script-0",{"src":"/_next/static/chunks/3cl7l-_4-x8ob.js","async":true}]],["$","$L17",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":"$@19","v":null,"s":"$b"}}]]
+4:[["children",{"s":"post","h":64,"d":{"r":["$","$5","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+3:[["children",{"s":"(app)","h":32,"c":"$Q4"}]]
+2:[["children",{"s":"en","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(en)","h":112,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$5","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F4EF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#201E1D","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Forum post · PRESTIGE"}],["$","meta","1",{"name":"description","content":"Read a post from the PRESTIGE community."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","link","4",{"rel":"alternate","hrefLang":"fr","href":"https://prestige.wouanda.com/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://prestige.wouanda.com/en/"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"PRESTIGE"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","9",{"rel":"icon","href":"/favicon.ico"}],["$","link","10",{"rel":"apple-touch-icon","href":"/assets/brand/icon-180.png"}],["$","$L1e","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$b"}},"a":"$@20","u":"$@21","b":"V8D3gesaBUMg-s8Vg6Cvt"}
+18:null
+21:true
+b:300
+b:C
+20:0
+9:"$undefined"
+1f:"$undefined"
+19:"$undefined"
