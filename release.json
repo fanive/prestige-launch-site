@@ -1,7 +1,7 @@
 {
-  "feature": "prestige-price-peer-bars",
-  "sourceCommit": "4d8bbf1340aab0c4e17a3863b3b24af4d47bc384",
-  "previousSourceCommit": "8377a1a874aa69dc17eda2ec89df219e8542789a",
-  "generatedAt": "2026-11-21T21:01:40.462469+00:00",
-  "tests": 415
+  "feature": "prestige-analyst-recommendation-trends",
+  "sourceCommit": "7008d8ac2200d4251a71c9fe752cbd2d32b4bbfd",
+  "previousSourceCommit": "4d8bbf1340aab0c4e17a3863b3b24af4d47bc384",
+  "generatedAt": "2026-11-21T21:07:31.525850+00:00",
+  "tests": 416
 }
