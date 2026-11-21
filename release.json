@@ -1,7 +1,7 @@
 {
-  "feature": "prestige-stock-analyst-gauge",
-  "sourceCommit": "80de0d2a0ead6f4445e9225a1f951cf135fdf5ff",
-  "previousSourceCommit": "7008d8ac2200d4251a71c9fe752cbd2d32b4bbfd",
-  "generatedAt": "2026-11-21T21:19:37.935572+00:00",
+  "feature": "prestige-centered-analyst-gauge",
+  "sourceCommit": "f362f7978670524f2561bd2a302714d9e2a99869",
+  "previousSourceCommit": "80de0d2a0ead6f4445e9225a1f951cf135fdf5ff",
+  "generatedAt": "2026-11-21T21:25:04.905149+00:00",
   "tests": 420
 }
