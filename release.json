@@ -1,7 +1,7 @@
 {
-  "feature": "prestige-stock-chart-always-visible",
-  "sourceCommit": "acbe5d22ad3820014d9a3770d72974f5ed2ded6b",
-  "previousSourceCommit": "c2d2cca505c13d6f455ee7ad8dfe1e97746aed95",
-  "generatedAt": "2026-11-21T20:41:06.306557+00:00",
-  "tests": 416
+  "feature": "prestige-web-open-questions-and-inline-evidence",
+  "sourceCommit": "9a8e998b57019d7bab47791aa16b8ce0a8d00caf",
+  "previousSourceCommit": "acbe5d22ad3820014d9a3770d72974f5ed2ded6b",
+  "generatedAt": "2026-11-21T20:47:39.813900+00:00",
+  "tests": 412
 }
