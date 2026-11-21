@@ -1,7 +1,7 @@
 {
-  "feature": "prestige-fund-geography-map",
-  "sourceCommit": "5418077ef998519e3c685f5cf1deac9c77f69186",
-  "previousSourceCommit": "f1d03818fbe811ccc75da817891ea7a0de13f714",
-  "generatedAt": "2026-11-21T21:51:56.122549+00:00",
+  "feature": "prestige-fund-map-thin-outline",
+  "sourceCommit": "b37f99be3d9955325e07c7b3a6709877e94127a0",
+  "previousSourceCommit": "5418077ef998519e3c685f5cf1deac9c77f69186",
+  "generatedAt": "2026-11-21T21:59:54.417640+00:00",
   "tests": 423
 }
