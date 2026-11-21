@@ -1,7 +1,7 @@
 {
-  "feature": "prestige-analyst-recommendation-trends",
-  "sourceCommit": "7008d8ac2200d4251a71c9fe752cbd2d32b4bbfd",
-  "previousSourceCommit": "4d8bbf1340aab0c4e17a3863b3b24af4d47bc384",
-  "generatedAt": "2026-11-21T21:07:31.525850+00:00",
-  "tests": 416
+  "feature": "prestige-stock-analyst-gauge",
+  "sourceCommit": "80de0d2a0ead6f4445e9225a1f951cf135fdf5ff",
+  "previousSourceCommit": "7008d8ac2200d4251a71c9fe752cbd2d32b4bbfd",
+  "generatedAt": "2026-11-21T21:19:37.935572+00:00",
+  "tests": 420
 }
