@@ -16,12 +16,12 @@
   try {
     const saved = localStorage.getItem('prestige-theme');
     if (saved === 'light' || saved === 'dark') root.dataset.theme = saved;
-  } catch (_) {}
+  } catch {}
   doc.querySelector('.theme-toggle')?.addEventListener('click', () => {
     const dark = root.dataset.theme === 'dark' ||
       (!root.dataset.theme && matchMedia('(prefers-color-scheme: dark)').matches);
     root.dataset.theme = dark ? 'light' : 'dark';
-    try { localStorage.setItem('prestige-theme', root.dataset.theme); } catch (_) {}
+    try { localStorage.setItem('prestige-theme', root.dataset.theme); } catch {}
   });
 
   // Header: a line appears once the page scrolls.
